@@ -7,4 +7,4 @@ Adicionalmente se implementa la conversión de una cadena de texto en voz, guard
 ## Requisitos
 
 - Instalar la librería ibm_watson ( pip install ibm_watson)
-- Revisar la documentación para ajustar al idioma de su preferencia
+- Revisar la documentación para ajustar al idioma de su preferencia [Aquí](https://cloud.ibm.com/docs/text-to-speech?topic=text-to-speech-voices)
